@@ -9,4 +9,4 @@ This repository contains code for conducting experiments to measure gender, age,
 For details on measuring gender and age bias, please refer to [gender_age/README.md](gender_age/README.md).
 
 ### General Bias
-Documentation for measuring general bias will be added soon.
+For details on measuring general bias, please refer to [bias_QA/README.md](bias_QA/README.md).
