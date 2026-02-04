@@ -10,3 +10,7 @@ For details on measuring gender and age bias, please refer to [gender_age/README
 
 ### General Bias
 For details on measuring general bias, please refer to [bias_QA/README.md](bias_QA/README.md).
+
+
+## Experiment Results
+The [results_with_data/](results_with_data/) directory contains the processed data and the corresponding measurement result files.
